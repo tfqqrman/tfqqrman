@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tfqqrman people call me Topiq, but u can call me anytime 😉 
-- 👀 currently I’m interested in mobile programming
+- 👋 Hi, I’m @tfqqrman people call me Topiq
 - 🌱 I’m currently learning and having ✨fun✨ with iOS App development 
-- 📠 u you can reach me through https://www.linkedin.com/in/taufiqqrman/
+- 📠 you can reach me through https://www.linkedin.com/in/taufiqqrman/
 
 
 <!---
