@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tfqqrman people call me Topiq
-- 🌱 I’m currently learning and having ✨fun✨ with iOS App development 
+- 🍎 Currently an iOS Application Developer using both Swift & Objective-C
 - 📠 you can reach me through https://www.linkedin.com/in/taufiqqrman/
 
 
